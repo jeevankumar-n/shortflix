@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "146781940591",
+    "project_id": "short-flix-app",
+    "storage_bucket": "short-flix-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146781940591:android:989409ef066c13a9c4d69a",
+        "android_client_info": {
+          "package_name": "com.example.movie_review_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT9P-FOkGtEnKXq1bH-VmpYnPZC1BSTFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
